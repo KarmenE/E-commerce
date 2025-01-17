@@ -1,0 +1,12 @@
+<!-- <div class="header d-flex justify-content-between align-items-center p-3 flex-nowrap">
+    <h2 routerLink="/">E-commerce</h2>
+    <button routerLink="carrello" class="btn btn-dark">Carrello ({{ CarrelloService.getQuantitaProdottiCarrello() }})</button>
+</div> -->
+
+
+<!-- invece di richiamare il metodo getQuantitaProdottiCarrello, mi sottoscrivo all'observable di carrello.service per calcolare la quantità totale:  -->
+<div class="header d-flex justify-content-between align-items-center p-3 flex-nowrap">
+    <h2 routerLink="/">E-commerce</h2>
+    <button routerLink="carrello" class="btn btn-dark">Carrello ({{ quantitaProdottiCarrello }})</button>
+</div>
+  
