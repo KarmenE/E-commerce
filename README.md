@@ -6,7 +6,7 @@ Tecnologie Utilizzate
 * Angular Material: Libreria di componenti UI Angular che implementa il Material Design di Google, per un'interfaccia utente moderna e coerente.
 * RxJS: Libreria per la programmazione reattiva con Angular, utilizzata per la gestione dei flussi di dati asincroni e degli eventi.
 * Bootstrap: per lo stile
-* JSON Server: per simulare un database locale
+* JSON Server: Un server REST fittizio che fornisce un backend simulato basato su un file JSON. Utile per lo sviluppo frontend senza la necessità di un backend completo.
 
 Funzionalità Principali
 * Visualizzazione Prodotti: L'applicazione mostra un elenco di prodotti disponibili.
