@@ -1,4 +1,21 @@
-# StopandcodeECommerce
+Questo progetto Angular rappresenta un'applicazione web di e-commerce, progettata per mostrare prodotti, gestire un carrello acquisti e simulare il processo di acquisto.
+
+Tecnologie Utilizzate
+* Angular: Framework frontend per la creazione di applicazioni web dinamiche.
+* TypeScript: Linguaggio di programmazione tipizzato che si basa su JavaScript.
+* Angular Material: Libreria di componenti UI Angular che implementa il Material Design di Google, per un'interfaccia utente moderna e coerente.
+* RxJS: Libreria per la programmazione reattiva con Angular, utilizzata per la gestione dei flussi di dati asincroni e degli eventi.
+* Bootstrap: per lo stile
+* JSON Server: per simulare un database locale
+
+Funzionalità Principali
+* Visualizzazione Prodotti: L'applicazione mostra un elenco di prodotti disponibili.
+* Dettaglio Prodotto: Permette di visualizzare i dettagli di un singolo prodotto.
+* Carrello Acquisti: Implementa la funzionalità di aggiungere prodotti al carrello, visualizzare il carrello e gestire le quantità.
+* Simulazione Checkout: Offre una simulazione del processo di checkout (potrebbe non includere l'integrazione con sistemi di pagamento reali).
+
+
+
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.2.
 
